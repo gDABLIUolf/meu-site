@@ -1,0 +1,35 @@
+/* header {
+    height: fit-content;
+} */
+
+header
+
+/*.imagem*/
+    {
+    background-image: url("https://demos.creative-tim.com/now-ui-kit/assets/img/bg6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 30vw;
+    /*     position: absolute;
+    height: 100%;
+    z-index: -1;
+    width: 100%;
+    filter: brightness(50%); */
+}
+
+.filtro {
+    text-align: center;
+}
+
+.titulo {
+    -webkit-text-stroke: 1px black;
+}
+
+h1 {
+    color: white;
+}
+
+section {
+    text-align: center;
+}
